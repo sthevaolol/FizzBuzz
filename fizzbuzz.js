@@ -13,3 +13,5 @@ function num () {
 }
 
 num()
+
+// aprendi a fazer loop xddd
