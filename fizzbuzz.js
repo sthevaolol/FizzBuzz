@@ -18,3 +18,4 @@ function num () {
 num()
 
 // aprendi a fazer loop xddd
+// praticando novamente 2024/08/09
